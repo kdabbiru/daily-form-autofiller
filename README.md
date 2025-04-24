@@ -1,7 +1,6 @@
 # Google Form AutoFiller (For Intellipaat Feedback)
 
-A simple Chrome extension that auto-fills the daily feedback form for my Intellipaat batch.
-
+Because I'm too lazy to fill the same form every single day — and if you're using this, you're probably just as lazy as me. Life’s too short to waste time on boring stuff — let automation handle the grind. 😎💤
 ---
 
 ## ⚙️ What It Does
